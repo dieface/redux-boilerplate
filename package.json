@@ -26,8 +26,12 @@
   "dependencies": {
     "fixed-data-table": "^0.6.0",
     "react": "^0.14.5",
+    "react-bootstrap": "^0.28.1",
     "react-dom": "^0.14.5",
-    "redux": "^3.0.5"
+    "redux": "^3.0.5",
+    "d3": "3.5.12",
+    "moment": "^2.11.0",
+    "chance": "^0.8.0"
   },
   "devDependencies": {
     "babel-core": "^6.3.26",
