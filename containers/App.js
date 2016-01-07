@@ -272,7 +272,7 @@ export default class App extends Component {
         <GMap/>
         <Timeline data={getTimelineData()}/>
         <MainChart data={getMainData()}/>
-        <MaleFemaleChart data={getGenderData()}/>
+        {/*<MaleFemaleChart data={getGenderData()}/>*/}
         <Pie data={getPieData()}/>
         <Donut data={getDonutData()}/>
         <Line data={getLineData()}/>
