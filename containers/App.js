@@ -233,6 +233,8 @@ function getGenderData() {
 }
 
 /* Table */
+import FilterTable from '../components/FilterTable';
+// import FilterExample from 'fixed-data-table/examples/FilterExample';
 // import { Table, Cell, Column, ColumnGroup } from 'fixed-data-table';
 // require('../fixed-data-table.css');
 
